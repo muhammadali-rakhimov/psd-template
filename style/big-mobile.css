@@ -1,0 +1,828 @@
+@media screen and (min-width: 321px) and (max-width: 540px) {
+
+/*START*/
+
+
+/* OBWIY */
+
+.allmain {
+    width: 100%;
+    height: 510px !important;
+}
+
+header {
+    width: 100%;
+    height: 80px !important;
+}
+
+/*OBWIY*/
+
+/* HEADER */
+
+.icon-menu, .menu, .icon-menu span {
+    display: none;
+}
+
+.tel-number {
+    display: none !important;
+}
+
+.zagolovok-obshiy {
+    position: absolute;
+    left: 160px !important;
+}
+
+#transtvo {
+    margin-left: 1px !important;
+}
+
+/* HEADER */
+
+/*MAIN*/
+
+/* PORTFOLIO */
+
+.portfolio {
+    width: 100% !important;
+    height: 105% !important;
+}
+
+.proyekt {
+    position: relative;
+    bottom: 20px;
+}
+
+.image-1 img {
+    width: 55%;
+    height: auto;
+    display: block;
+    position: absolute;
+    top: 90px;
+    left: 40%;
+}
+
+.image-1 {
+    width: 80%;
+    height: 100px;
+    display: block;
+    position: absolute;
+    bottom: 650px;
+    left: 22%;
+}
+
+.image-2 {
+    display: none;
+}
+
+.button-design:hover {
+    transform: none !important;
+}
+
+/* PORTFOLIO */
+
+/* O COMPANY */
+
+.second-main {
+    font-size: 100%;
+    position: relative;
+    right: 0;
+    left: 0;
+    top: 0;
+    bottom: 0;
+}
+
+.company-main {
+    width: 100%;
+    height: 100% !important;
+}
+
+.kompaniya {
+    width: 100% !important;
+    height: auto;
+    padding-bottom: 40px;
+    padding-top: 30px;
+}
+
+.about-kompaniya {
+    width: 95%;
+    height: auto;
+    position: relative;
+    right: 18px;
+    margin-left: 10px;
+}
+
+.about-kompaniya h1 {
+    position: relative;
+    top: 10px;
+    left: 0;
+}
+
+.about-kompaniya p {
+    position: relative;
+    top: 30px;
+}
+
+.about-kompaniya > h4 {
+    width: 116px !important;
+    height: 23px !important;
+    font-size: 15px !important;
+}
+
+.napisat-nam > h4:hover {
+    transform: none !important;
+}
+
+.arxitektura {
+    display: none;
+}
+
+.img-architecture {
+    display: none;
+}
+
+.little-house2 {
+    display: block;
+}
+
+/* O COMPANY */
+
+/* USLUGI */
+
+.allmain3 {
+    position: relative;
+    width: 100% !important;
+    height: auto !important;
+}
+
+.uslugi-button {
+    position: relative;
+    bottom: 20px !important;
+}
+
+.uslugi {
+    width: 100% !important;
+    height: 10vh !important;
+}
+
+.uslugi-img {
+    width: 25%;
+    height: auto;
+    position: absolute;
+    bottom: 13vh !important;
+    left: 72% !important;
+}
+
+.uslugi-ul li {
+    display: none;
+}
+
+.uslugi-button {
+    margin: 285px 0 15px -65% !important;
+}
+
+.uslugi-button:hover {
+    transform: none !important;
+}
+
+/* USLUGI */
+
+/* EXAMPLE-IMAGE */
+
+.allmain-example {
+    width: 100%;
+    height: auto !important;
+}
+
+.example-images1 img {
+    width: 100% !important;
+    height: auto;
+    display: block;
+}
+
+.example-images2 img {
+    width: 100% !important;
+    height: auto;
+    display: block;
+}
+
+.example-images3 img {
+    width: 100% !important;
+    height: auto;
+    display: block;
+}
+
+.example-images4 img {
+    width: 100% !important;
+    height: auto;
+    display: block;
+}
+
+.example-images5 img {
+    width: 100% !important;
+    height: auto;
+    display: block;
+}
+
+.example-images6 img {
+    width: 100% !important;
+    height: auto;
+    display: block;
+}
+
+/* EXAMPLE-IMAGE */
+
+/*ETAP*/
+
+.algoritm-work img {
+    display: none;
+}
+
+.algoritm-work {
+    position: relative;
+    right: 15px;
+}
+
+.algoritm-text > h1 {
+    position: relative;
+    top: 10px;
+}
+
+.algoritm-text {
+    text-align: center;
+}
+
+.algoritm-work > img {
+    display: block;
+    position: relative;
+}
+
+.algoritm-work > img {
+    position: relative;
+    right: 100px !important;
+    top: 20px;
+}
+
+.etap-text {
+    margin: 180px 50px 0 0 !important;
+    text-align: center;
+    display: grid !important;
+}
+
+.etap-text-child4 {
+    position: relative;
+    bottom: 65px;
+}
+
+.etap-text-child1 {
+    position: relative;
+    bottom: 110px !important;
+}
+
+.etap-text-child2 {
+    position: relative;
+    bottom: 90px !important;
+}
+
+.etap-text-child3 {
+    position: relative;
+    bottom: 70px !important;
+}
+
+.etap-text-child4 {
+    position: relative;
+    bottom: 40px;
+}
+
+.etap-text-child4 > p:hover {
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+.line-throuth {
+    display: none;
+}
+
+.etap-image {
+    width: 100%;
+    height: 100% !important;
+}
+
+.etap-image-1 {
+    width: 60%;
+    height: auto;
+    display: block;
+    margin: 40px 0 20px -60px !important;
+    box-shadow: 30px 30px 1px #F0F3F6 !important;
+}
+
+.etap-image-2 {
+    width: 60%;
+    height: auto;
+    display: block;
+    margin: 70px 0 20px -60px !important;
+    box-shadow: 30px 30px 1px #F0F3F6;
+}
+
+.etap-image3 {
+    display: none;
+}
+
+.etap-text-child4 > .raschet, .etap-text-child4 > p, .etap-text-child4 > img {
+    display: none;
+}
+
+.algoritm-text p {
+    position: relative;
+    top: 20px;
+}
+
+/*ETAP*/
+
+/* NASHA KOMANDA */
+
+.main-address-obwiy {
+    width: 100%;
+    height: 720px;
+    text-align: center;
+}
+
+.team-images {
+    margin-left: 8.5% !important;
+}
+
+.our-team-h1 {
+    width: 259px !important;
+    position: absolute;
+    margin-left: -38px !important;
+    margin-top: -10px;
+}
+
+.column-team-image-obwiy {
+    display: none;
+}
+
+.column-team-image {
+    display: none;
+}
+
+.column-team-image > img {
+    display: none;
+}
+
+
+.team-image1 {
+    width: 130px !important;
+    height: 130px !important;
+    display: block;
+    position: relative;
+    top: 80px;
+    right: 105px;
+}
+
+.team-image2 {
+    width: 130px !important;
+    height: 130px !important;
+    display: block;
+    position: relative;
+    bottom: 71px;
+    left: 43px;
+}
+
+.team-image3 {
+    width: 130px !important;
+    height: 130px !important;
+    display: block;
+    position: relative;
+    bottom: 73px;
+    left: 43px;
+}
+
+.team-image4 {
+    width: 130px !important;
+    height: 130px !important;
+    display: block;
+    position: relative;
+    bottom: 245px;
+    right: 105px;
+}
+
+.team-image5 {
+    width: 130px !important;
+    height: 130px !important;
+    display: block;
+    position: relative;
+    bottom: 240px;
+    right: 105px;
+}
+
+.team-image6 {
+    width: 130px !important;
+    height: 130px !important;
+    display: block;
+    position: relative;
+    bottom: 390px;
+    left: 43px;
+}
+
+.team-image7 {
+    width: 130px !important;
+    height: 130px !important;
+    display: block;
+    position: relative;
+    bottom: 410px;
+    right: 105px;
+}
+
+.team-image8 {
+    width: 130px !important;
+    height: 130px !important;
+    display: block;
+    position: relative;
+    bottom: 561px;
+    left: 43px;
+}
+
+/* NASHA KOMANDA */
+
+/* ADDRESS */
+
+.address-small {
+    display: none;
+}
+
+.address-big {
+    display: none;
+}
+
+.main-address {
+    width: 100% !important;
+    height: 100% !important;
+}
+
+.address-text {
+    position: relative;
+    top: 30px !important;
+    margin-right: 100px;
+    text-align: center;
+}
+
+.form-text {
+    width: 220 !important;
+    height: auto;
+    text-align: center;
+    padding-right: 15px !important;
+}
+
+.form-submit {
+    width: 240px !important;
+    height: auto;
+    text-align: center;
+    position: relative;
+    right: 0 !important;
+    top: 1px !important;
+}
+
+/* ADDRESS */
+
+/*MAIN*/
+
+
+/*END*/
+
+}
+
+
+/* BOSH OG'RIQ */       /* BOSH OG'RIQ */       /* BOSH OG'RIQ */       /* BOSH OG'RIQ */
+
+
+@media screen and (min-width: 321px) and (max-width: 360px) {
+
+.image-1 img {
+    margin-top: 20px;
+}
+
+
+@media screen and (min-width: 321px) and (max-width: 330px) {
+
+    .team-images {
+        margin-left: 6.8% !important;
+    }
+
+}
+
+
+
+
+@media screen and (min-width: 331px) and (max-width: 340px) {
+
+    .team-images {
+        margin-left: 8% !important;
+    }
+
+}
+
+
+
+
+@media screen and (min-width: 341px) and (max-width: 350px) {
+
+    .team-images {
+        margin-left: 8.3% !important;
+    }
+
+    .our-team-h1 {
+        margin-left: -10% !important;
+    }
+
+}
+
+
+
+
+@media screen and (min-width: 351px) and (max-width: 360px) {
+
+    .team-images {
+        margin-left: 9% !important;
+    }
+
+}
+
+
+
+
+@media screen and (min-width: 361px) and (max-width: 370px) {
+
+    .team-images {
+        margin-left: 9% !important;
+    }
+
+    .our-team-h1 {
+        margin-left: -10% !important;
+    }
+
+}
+
+
+
+
+@media screen and (min-width: 371px) and (max-width: 380px) {
+
+    .team-images {
+        margin-left: 9.3% !important;
+    }
+
+    .our-team-h1 {
+        margin-left: -9% !important;
+    }
+
+    .img-team {
+        margin-left: 5% !important;
+    }
+
+}
+
+
+
+
+@media screen and (min-width: 381px) and (max-width: 390px) {
+
+    .team-images {
+        margin-left: 9.7% !important;
+    }
+
+    .our-team-h1 {
+        margin-left: -9% !important;
+    }
+
+    .image-1 img {
+        margin: 0 0 10vh 0;
+    }
+
+}
+
+
+
+
+@media screen and (min-width: 391px) and (max-width: 400px) {
+
+    .team-images {
+        margin-left: 10% !important;
+    }
+
+    .our-team-h1 {
+        margin-left: -9% !important;
+    }
+
+}
+
+
+
+
+@media screen and (min-width: 401px) and (max-width: 410px) {
+
+    .team-images {
+        margin-left: 10.3% !important;
+    }
+
+    .our-team-h1 {
+        margin-left: -9% !important;
+    }
+
+}
+
+
+
+
+@media screen and (min-width: 411px) and (max-width: 420px) {
+
+    .team-images {
+        margin-left: 10.7% !important;
+    }
+
+    .our-team-h1 {
+        margin-left: -8% !important;
+    }
+
+}
+
+
+
+
+@media screen and (min-width: 421px) and (max-width: 430px) {
+
+    .team-images {
+        margin-left: 11% !important;
+    }
+
+    .our-team-h1 {
+        margin-left: -7% !important;
+    }
+
+}
+
+
+
+
+@media screen and (min-width: 431px) and (max-width: 440px) {
+
+    .team-images {
+        margin-left: 11.3% !important;
+    }
+
+    .our-team-h1 {
+        margin-left: -6% !important;
+    }
+
+}
+
+
+
+
+@media screen and (min-width: 441px) and (max-width: 450px) {
+
+    .team-images {
+        margin-left: 11.5% !important;
+    }
+
+    .our-team-h1 {
+        margin-left: -6% !important;
+    }
+
+}
+
+
+
+
+@media screen and (min-width: 451px) and (max-width: 460px) {
+
+    .team-images {
+        margin-left: 11.8% !important;
+    }
+
+    .our-team-h1 {
+        margin-left: -5% !important;
+    }
+
+}
+
+
+
+
+@media screen and (min-width: 461px) and (max-width: 470px) {
+
+    .team-images {
+        margin-left: 12% !important;
+    }
+
+    .our-team-h1 {
+        margin-left: -5% !important;
+    }
+
+}
+
+
+
+
+@media screen and (min-width: 471px) and (max-width: 480px) {
+
+    .team-images {
+        margin-left: 12.5% !important;
+    }
+
+    .our-team-h1 {
+        margin-left: -4% !important;
+    }
+
+}
+
+
+
+
+@media screen and (min-width: 481px) and (max-width: 490px) {
+
+    .team-images {
+        margin-left: 13% !important;
+    }
+
+    .our-team-h1 {
+        margin-left: -3% !important;
+    }
+
+}
+
+
+
+
+@media screen and (min-width: 491px) and (max-width: 500px) {
+
+    .team-images {
+        margin-left: 13.3% !important;
+    }
+
+    .our-team-h1 {
+        margin-left: -3% !important;
+    }
+
+}
+
+
+
+
+@media screen and (min-width: 501px) and (max-width: 510px) {
+
+    .team-images {
+        margin-left: 13.5% !important;
+    }
+
+    .our-team-h1 {
+        margin-left: -3% !important;
+    }
+
+}
+
+
+
+
+@media screen and (min-width: 511px) and (max-width: 520px) {
+
+    .team-images {
+        margin-left: 13.4% !important;
+    }
+
+    .our-team-h1 {
+        margin-left: -3% !important;
+    }
+
+}
+
+
+
+
+@media screen and (min-width: 521px) and (max-width: 530px) {
+
+    .team-images {
+        margin-left: 14% !important;
+    }
+
+    .our-team-h1 {
+        margin-left: -2% !important;
+    }
+
+}
+
+
+
+
+@media screen and (min-width: 531px) and (max-width: 540px) {
+
+    .team-images {
+        margin-left: 14% !important;
+    }
+
+    .our-team-h1 {
+        margin-left: -2% !important;
+    }
+
+}
+
+/* BOSH OG'RIQ */       /* BOSH OG'RIQ */       /* BOSH OG'RIQ */       /* BOSH OG'RIQ */

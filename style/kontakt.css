@@ -1,0 +1,260 @@
+html {
+    background-color: #EDF3FB;
+}
+
+/* ZAGOLOVOK-SAYTA */
+
+.zagolovok-sayta {
+    height: 65px;
+    width: 35%;
+    padding-top: 0.5%;
+    color: black;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    padding-right: auto;
+    padding-left: auto;
+    text-decoration: none;
+}
+
+.zagolovok-sayta a, h2, span {
+    text-decoration: none;
+    color: black;
+}
+
+span {
+    display: inline-block;
+}
+
+h2 {
+    margin-top: 10px;
+    padding-top: 15px;
+    display: block;
+    width: 400px;
+    height: 50px;
+    line-height: 0;
+    background: #EDF3FB;
+    font-family: 'Fira Sans', sans-serif;
+    font-size: 23px;
+    letter-spacing: 3px !important;
+    text-align: center;
+}
+
+#transtvo {
+    letter-spacing: 7px;
+}
+    
+    /* ...Zagolovok... , dizayn */
+
+    /* ПРОСТРАНСТВО - dizayn */
+
+.p-only {
+    position: relative;
+    left: 30px;
+}
+
+
+.p-span {
+    position: relative;
+    left: 23px;
+}
+
+.p-span::before {
+    width: 4px;
+    height: 13px;
+    background: #F0001E;
+    content: '';
+    display: block;
+    position: relative;
+    top: 6px;
+    right: 10px;
+}
+
+.o-span::before {
+    width: 13px;
+    height: 4px;
+    background: #F0001E;
+    content: '';
+    display: block !important;
+    position: relative;
+    bottom: 25px;
+    left: 1px;
+}
+
+.o-span {
+    border: 4px solid #F0001E;
+    letter-spacing: 0 !important;
+    padding: 7px 2px;
+    margin: 0;
+    margin-right: 1px;
+    position: relative;
+    left: 15px;        
+}
+
+
+.o-span::after {
+    content: '';
+    width: 13px;
+    height: 4px;
+    background: #F0001E;
+    display: block !important;
+    position: relative;
+    top: 27px;
+    left: 1px;
+}
+
+.c-span {
+    position: relative;
+    left: 9px;
+}
+
+.c-span::after {
+    width: 4px;
+    height: 13px;
+    background: #F0001E;
+    content: '';
+    display: block;
+    position: relative;
+    bottom: 7px;
+    left: 21px;
+}
+
+/* ZAGOLOVOK-SAYTA */
+
+
+/*MAIN*/
+
+.krestik {
+    width: 110px;
+    height: 110px;
+    background-color: #8EAADB;
+    float: right;
+    position: relative;
+    right: 246px/*17.4444%*/;
+    bottom: 4.555vh;
+}
+
+.krestik:hover {
+    background-color: #91B8FF;
+    transition-duration: 1s;
+}
+
+.krestik-left {
+    width: 30px;
+    height: 3px;
+    background-color: white;
+    transform: rotate(135deg);
+    position: relative;
+    top: 52px;
+    left: 41px;
+}
+.krestik-right {
+    width: 30px;
+    height: 3px;
+    background-color: white;
+    transform: rotate(45deg);
+    position: relative;
+    top: 49px;
+    left: 42px;
+}
+
+/*MAIN*/
+
+/* FORM */
+
+.parent-form-DIV {
+    position: relative;
+    right: 40px;
+    bottom: 20px;
+    margin: 0 auto;
+    width: 700px;
+    height: 300px;
+    background-color: white;
+}
+
+.form-text {
+    width: 575px;
+    height: 180px;
+    margin-top: 20px !important;
+    margin-left: 50px !important;
+    padding-left: 25px;
+    border: 0;
+    border-bottom: 2px solid #CBD6F1;
+    background-color: white;
+    font-family: calibri, sans-serif;
+    font-size: 18px;
+    font-weight: 500;
+    margin: 0 auto;
+}
+
+form > span {
+    padding-top: 15px;
+    padding-left: 25px;
+    font-family: calibri, sans-serif;
+    font-size: 18px;
+    font-weight: 500;
+}
+
+form > span > div {
+    margin-top: 5px;
+}
+
+.name-otpravka {
+    position: relative;
+    bottom: 20px;
+    left: 32px;
+    font-family: calibri, sans-serif;
+    font-size: 15px;
+    float: left;
+    padding-bottom: 200px;
+}
+
+.name-user {
+    position: relative;
+    right: 100px;
+    top: 45px;
+    font-family: calibri, sans-serif;
+    font-weight: bold;
+    font-size: 18px;
+    float: left;
+}
+
+.email-otpravka {
+    position: relative;
+    top: 22px;
+    left: 80px;
+    font-family: calibri, sans-serif;
+    font-size: 15px;
+    float: right;
+    
+}
+
+.email-user {
+    position: relative;
+    top: 45px;
+    right: 65px;
+    font-family: calibri, sans-serif;
+    font-weight: bold;
+    font-size: 18px;
+    float: right;
+}
+
+#all-submit {
+    width: 266px;
+    height: 50px;
+    border: 2px solid #F0001C;
+    font-family: calibri, sans-serif;
+    font-weight: bold;
+    font-size: 18px;
+    position: relative;
+    left: 57px;
+}
+
+#all-submit:hover {
+    transition-duration: 1s;
+    background-color: #FF504D;
+    color: white;
+    cursor: pointer;
+}
+
+/* FORM */

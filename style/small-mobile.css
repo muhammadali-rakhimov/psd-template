@@ -1,0 +1,514 @@
+@media screen and (max-width: 320px) {
+
+/* OBSHIY */
+
+/* OBSHIY */
+
+/* HEADER */
+
+.icon-menu, .menu, .icon-menu span {
+    display: none;
+}
+
+.tel-number {
+    display: none !important;
+}
+
+/* HEADER */
+
+/* ZAGOLOVOK */
+
+.zagolovok-obshiy {
+    position: absolute;
+    left: 54% !important;
+}
+
+#transtvo {
+    font-size: 21px;
+    position: relative;
+    top: 15px;
+    left: 5px;
+}
+
+.zagolovok-sayta {
+    margin-left: 12px !important;
+}
+
+.zagolovok-sayta, .zagolovok-sayta a, h2, span, h2 {
+    display: block;
+    float: left;
+}
+
+.p-only {
+    font-size: 21px;
+    position: relative;
+    top: 14.5px;
+}
+
+.p-span {
+    font-size: 21px;
+    position: relative;
+    top: 1.5px;
+}
+
+.c-span {
+    font-size: 21px;
+    position: relative;
+    top: 15px;
+}
+
+.p-span::before {
+    width: 2px;
+    height: 13px;
+}
+
+/* ZAGOLOVOK */
+
+/* PORTFOLIO */
+
+.portfolio-main {
+    width: 100%;
+    height: 480px !important;
+    overflow: hidden;
+}
+
+.about-company {
+    line-height: 30px;
+    font-size: 24px;
+}
+
+.portfolio {
+    background-color: #EDF3FB !important;
+}
+
+.portfolyo {
+    width: 140%;
+    height: auto;
+}
+
+.about-text2 {
+    margin-bottom: 12%;
+}
+
+.button-design {
+    position: absolute;
+    top: 143px;
+}
+
+.image-1 img {
+    width: 45%;
+    height: auto;
+    position: relative;
+    left: 30%;
+    margin-top: 80px;
+    display: block;
+}
+
+.image-2 {
+    display: none;
+}
+
+.previous {
+    position: relative;
+    top: 5px;
+}
+
+.next {
+    position: relative;
+    top: 5px;
+}
+
+/* PORTFOLIO */
+
+/* O COMPANY */
+
+.company-main {
+    width: 290px;
+    height: 100px !important;
+}
+
+.kompaniya {
+    position: relative;
+    bottom: 35%;
+    line-height: 19px;
+    width: 95% !important;
+    height: 470% !important;
+    height: auto;
+    float: left;
+}
+
+.about-kompaniya {
+    position: relative;
+    bottom: 5%;
+    margin-bottom: 40px;
+    margin-left: -7px;
+}
+
+.about-kompaniya > h1 {
+    position: relative;
+    bottom: 40px !important;
+    font-size: 27px;
+}
+
+.about-kompaniya > h4 {
+    position: relative;
+    bottom: 38px;
+}
+
+.napisat-nam {
+    position: relative;
+    bottom: 50px;
+}
+
+.about-kompaniya > p {
+    position: relative;
+    bottom: 20px;
+}
+
+.kompaniya h4 {
+    width: 140px;
+    height: 25px;
+    border: 2px solid #D51100;
+    margin-top: 20px;
+    padding-right: 15px;
+    padding-top: 8px;
+    padding-bottom: 3px;
+    font-weight: 600;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 16px !important;
+    text-align: center;
+}
+
+.kompaniya h4:hover {
+    transition-duration: 0.9s;
+    background: #E72132;
+    color: white;
+    transform: none !important;
+    cursor: pointer;
+}
+
+.arxitektura {
+    display: none;
+}
+
+.img-architecture {
+    display: none;
+}
+
+.little-house2 {
+    display: block;
+}
+
+/* O COMPANY */
+
+/* USLUGI */
+
+.uslugi-ul {
+    display: block;
+    position: relative;
+    top: 10px;
+}
+
+.allmain3 img {
+    font-size: 100%;
+    display: block;
+    position: relative;
+    left: 72%;
+    margin-top: 15px;
+    width: 25%;
+    height: auto;
+}
+
+.uslugi {
+    width: 690px !important;
+    height: auto;
+    padding: 7% 0 0 5%;
+    background: #FFFEFF;
+    font-size: 17px;
+    font-family: calibri, sans-serif;
+}
+
+.uslugi-button {
+    display: block;
+    margin: 20px 20px 0 0;  
+    float: left;
+    position: relative;
+    top: 10px !important;
+}
+
+/* USLUGI */
+
+/* EXAMPLE IMAGES */
+
+.allmain-example { 
+    width: 100% !important;
+    height: 100% !important;  
+    display: block;
+}
+
+.example-images1 img {
+    width: 100% !important;
+    height: auto;
+    display: block;
+}
+
+.example-images2 img {
+    width: 100% !important;
+    height: auto;
+    display: block;
+}
+
+.example-images3 img {
+    width: 100% !important;
+    height: auto;
+    display: block;
+}
+
+.example-images4 img {
+    width: 100% !important;
+    height: auto;
+    display: block;
+}
+
+.example-images5 img {
+    width: 100% !important;
+    height: auto;
+    display: block;
+}
+
+.example-images6 img {
+    width: 100% !important;
+    height: auto;
+    display: block;
+}
+
+/* EXAMPLE IMAGES */
+
+/* ETAP-RABOTI */
+
+.etap-image-1 {
+    display: none;
+}
+
+.etap-image-2 {
+    display: none;
+}
+
+.etap-image3 {
+    display: none;
+}
+
+.etap-text {
+    position: relative;
+    top: 3%;
+    margin-top: 15px;
+    display: grid !important;
+}
+
+.etap-image {
+    width: 100%;
+    height: 100% !important;
+    padding-bottom: 30px;
+}
+
+.etap-text-child1 {
+    position: relative;
+    top: 8px;
+}
+
+.etap-text-child2 {
+    position: relative;
+    top: 8px;
+}
+
+.etap-text-child3 {
+    position: relative;
+    top: 8px;
+}
+
+.etap-text-child4 {
+    position: relative;
+    top: 10px;
+}
+
+.line-throuth {
+    position: absolute;
+    bottom: 20px !important;
+}
+
+/* ETAP-RABOTI */
+
+/* NASHA KOMANDA */
+
+.main-address-obwiy {
+    width: 100%;
+    height: 700px;
+}
+
+.column-team > h1 {
+    width: 200px;
+    position: relative;
+    bottom: 450px !important;
+    font-size: 30px !important;
+}
+
+.column-team-image {
+    display: none;
+}
+
+.our-team-h1 {
+    margin-top: 30px;
+}
+
+.team-images {
+    display: block; 
+    position: relative;
+    top: 58%;
+}
+
+.team-image1 {
+    display: block;
+    position: absolute;
+    bottom: 193%;
+    right: 305px;
+}
+
+.team-image2 {
+    display: block;
+    position: absolute;
+    bottom: 193%;
+    right: 160px;
+}
+
+.team-image3 {
+    display: block;
+    position: absolute;
+    bottom: 169%;
+    right: 160px;
+}
+
+.team-image4 {
+    display: block;
+    position: absolute;
+    bottom: 169%;
+    right: 305px;
+}
+
+.team-image5 {
+    display: block;
+    position: absolute;
+    bottom: 145%;
+    right: 305px;
+}
+
+.team-image6 {
+    display: block;
+    position: absolute;
+    bottom: 145%;
+    right: 160px;
+}
+
+.team-image7 {
+    display: block;
+    position: absolute;
+    bottom: 120.5%;
+    right: 305px;
+}
+
+.team-image8 {
+    display: block;
+    position: absolute;
+    bottom: 120.5%;
+    right: 160px;
+}
+
+/* NASHA KOMANDA */
+
+/* ADDRESS */
+
+.address-small {
+    display: none;
+}
+
+.address-big {
+    display: none;
+}
+
+.main-address {
+    width: 100%;
+    height: 340px !important;
+}
+
+.address-text h1 {
+    position: relative;
+    bottom: 60px;
+    font-size: 29px;
+}
+
+.address-text > .address-text-1, .address-text-2, .address-text-3, .address-text-4 {
+    position: relative;
+    bottom: 70px;
+    left: 2px;
+}
+
+.address-text-3 {
+    position: absolute;
+    right: 21px;
+    bottom: 167px;
+}
+
+.address-text-4 {
+    margin-top: 25px;
+}
+
+.address-text-5 {
+/*    position: absolute;
+    right: 244px;
+    top: 137px;*/
+    display: none !important;
+}
+
+.address-text-4::after {
+    content: 'E-MAIL:';
+    color: #EE142B;
+    font-weight: bold;
+    position: relative;
+    top: 25px;
+    right: 123px;
+}
+
+.form-text {
+    position: relative;
+    bottom: 35px;
+}
+
+.form-submit {
+    position: relative;
+    bottom: 30px !important;
+    left: 0.5px;
+    width: 225px !important;
+    height: auto;
+}
+
+.address-email {
+    position: relative;
+    right: 50px !important;
+}
+
+/* ADDRESS */
+
+/* PAGES */
+
+.pages {
+    width: 7px !important;
+    height: 7px !important;
+}
+
+/* PAGES */
+
+.allmain3 {
+    width: 100%;
+    height: 420px !important;
+}
+
+}

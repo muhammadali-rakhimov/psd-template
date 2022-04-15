@@ -1,0 +1,100 @@
+@media screen and (min-width: 961px) and (max-width: 1024px) {
+
+/* START */    /* START */    /* START */    /* START */    /* START */    /* START */
+
+
+/* NAVBAR */
+
+.zagolovok-obshiy {
+    position: relative;
+    left: 11% !important;
+}
+
+/* NAVBAR */
+
+/* PORTFOLIO */
+
+.image-1 {
+    width: 70%;
+    height: auto;
+}
+
+.image-1 img {
+    width: 70%;
+    height: auto;
+    position: relative;
+    bottom: 650px;
+    left: 70%;
+}
+
+.image-2 {
+    margin-top: 20px;
+    position: relative;
+    left: 670px;
+}
+
+/* PORTFOLIO */
+
+/* O COMPANY */
+
+.about-kompaniya {
+    position: relative;
+    right: 20px;
+}
+
+/* O COMPANY */
+
+/* EXAMPLE-IMAGES */
+
+.example-images1 {
+    position: relative;
+    left: 1px;
+}
+
+/* EXAMPLE-IMAGES */
+
+/* TEAM */
+
+.team-images {
+    position: relative;
+    right: 40px;
+}
+
+/* TEAM */
+
+/* ADDRESS */
+
+.address-big {
+    display: none;
+}
+
+.form-submit {
+    position: absolute;
+    top: -1px;
+}
+
+/* ADDRESS */
+
+
+/* END */    /* END */    /* END */    /* END */    /* END */    /* END */    /* END */
+
+}
+
+
+@media screen and (min-width: 805px) and (max-width: 961px) {
+
+.etap-text {
+    margin: 0 70px 0 0;
+}
+
+}
+
+
+@media screen and (min-width: 881px) and (max-width: 961px) {
+
+.etap-text-child4 {
+    position: relative;
+    top: 1px;
+}
+
+}

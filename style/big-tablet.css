@@ -1,0 +1,483 @@
+@media screen and (min-width: 769px) and (max-width: 960px) {
+
+/* START */    /* START */    /* START */    /* START */    /* START */    /* START */
+
+/* NAVBAR */
+
+.zagolovok-obshiy {
+    position: relative;
+    left: 15% !important;
+}
+
+.icon-menu {
+    margin-left: 1vw;
+}
+
+.tel-number {
+    position: relative;
+    left: 1px;
+}
+
+/* NAVBAR */
+
+/* PORTFOLIO */
+
+.portfolio-main {
+    overflow: hidden;
+}
+
+.proyekt {
+    position: relative;
+    bottom: 30px;
+}
+
+.image-1 img {
+    width: 65%;
+    height: auto;
+    float: right;
+    position: relative !important;
+    left: 40%;
+    bottom: 50px;
+}
+
+.image-1 {
+    width: 70%;
+    height: auto;
+    position: relative !important;
+    top: -270px !important;
+}
+
+.image-2 {
+    width: 220px !important;
+    height: 220px !important;
+    margin: 20px -80px 0 0;
+}
+
+.image-2 img {
+    width: 50%;
+    height: auto;
+}
+
+.button-design {
+    position: relative;
+    bottom: 7px;
+}
+
+.next {
+    position: relative;
+    bottom: 20px;
+}
+
+.previous {
+    position: relative;
+    bottom: 20px;
+}
+
+.portfolio-main {
+    width: 70%;
+    height: 102vh !important;
+}
+
+/* PORTFOLIO */
+
+/* O COMPANY */
+
+.about-kompaniya {
+    display: grid;
+    position: relative;
+    right: 20px;
+}
+
+.little-house2 {
+    display: none;
+}
+
+/* O COMPANY */
+
+/* USLUGI */
+
+.uslugi-ul li {
+    display: none;
+}
+
+.uslugi-img {
+    margin-left: -60px;
+    margin-top: 40px;
+}
+
+.portfolio2 {
+    position: relative;
+    right: 40px;
+}
+
+/* USLUGI */
+
+/* ETAP */
+
+.etap-text {
+    position: relative;
+    top: -190px;
+}
+
+.etap-text-child4 {
+    position: relative;
+    bottom: 50px;
+}
+
+.etap-image-1 {
+    margin: 0 0 0 30px;
+    width: 180px;
+    height: auto;
+    border-radius: 10px;
+    box-shadow: 40px 40px 3px #F0F3F6 !important;
+}
+
+.etap-image-2 {
+    display: none;
+}
+
+.etap-image3 {
+    width: 200px !important;
+    height: 200px !important;
+    margin: 30px 0 0 70px;
+}
+
+.etap-image3 img {
+    width: 120px !important;
+    height: 80px !important;
+}
+
+/* ETAP */
+
+/* ONE TEAM */
+
+.column-team {
+    position: relative;
+    right: 87px;
+}
+
+.our-team-h1 {
+    position: relative;
+    top: 30px;
+}
+
+.team-images {
+    position: relative;
+    top: 20px;
+}
+
+.team-image-group {
+    display: grid;
+}
+
+.team-image1 {
+    position: relative;
+    right: 190px;
+}
+
+.team-image2 {
+    position: relative;
+    right: 50px;
+    bottom: 152px;
+}
+
+.team-image3 {
+    position: relative;
+    left: 90px;
+    bottom: 304px;
+}
+
+.team-image4 {
+    position: relative;
+    right: 190px;
+    bottom: 272px;
+}
+
+.team-image5 {
+    position: relative;
+    right: 50px;
+    bottom: 423px;
+}
+
+.team-image6 {
+    position: relative;
+    left: 90px;
+    bottom: 574px;
+}
+
+.team-image7 {
+    position: relative;
+    right: 190px;
+    bottom: 543px;
+}
+
+.team-image8 {
+    position: relative;
+    right: 50px;
+    bottom: 694px;
+}
+
+.team-image9 {
+    position: relative;
+    left: 90px;
+    bottom: 845px;
+}
+
+/* ONE TEAM */
+
+/* ADDRESS */
+
+.address-big {
+    display: none;
+}
+
+.address-small {
+    position: relative;
+    left: 430px !important;
+}
+
+.address-text {
+    margin: 0 20px 0 -40px;
+}
+
+.form-text {
+    position: relative;
+    top: 0;
+}
+
+.form-submit {
+    position: relative;
+    top: -1px;
+}
+
+/* ADDRESS */
+
+
+/* !END! */    /* !END! */    /* !END! */    /* !END! */    /* !END! */    /* !END! */
+
+}
+
+
+@media screen and (min-width: 901px) and (max-width: 960px)  {
+
+.column-team {
+    position: relative;
+    right: 60px;
+}
+
+}
+
+
+@media screen and (min-width: 770px) and (max-width: 780px)  {
+
+.team-image-group {
+    position: relative;
+    left: 1%;
+}
+
+}
+
+
+@media screen and (min-width: 781px) and (max-width: 790px)  {
+
+.team-image-group {
+    position: relative;
+    left: 2%;
+}
+
+}
+
+
+@media screen and (min-width: 791px) and (max-width: 800px)  {
+
+.team-image-group {
+    position: relative;
+    left: 4%;
+}
+
+}
+
+
+@media screen and (min-width: 801px) and (max-width: 810px)  {
+
+.team-image-group {
+    position: relative;
+    left: 4%;
+}
+
+}
+
+
+@media screen and (min-width: 811px) and (max-width: 820px)  {
+
+.team-image-group {
+    position: relative;
+    left: 7%;
+}
+
+}
+
+
+@media screen and (min-width: 821px) and (max-width: 830px)  {
+
+.team-image-group {
+    position: relative;
+    left: 8%;
+}
+
+}
+
+
+@media screen and (min-width: 831px) and (max-width: 840px)  {
+
+.team-image-group {
+    position: relative;
+    left: 13%;
+}
+
+}
+
+
+@media screen and (min-width: 841px) and (max-width: 850px)  {
+
+.team-image-group {
+    position: relative;
+    left: 14%;
+}
+
+}
+
+
+@media screen and (min-width: 851px) and (max-width: 860px)  {
+
+.team-image-group {
+    position: relative;
+    left: 15%;
+}
+
+}
+
+
+@media screen and (min-width: 861px) and (max-width: 870px)  {
+
+.team-image-group {
+    position: relative;
+    left: 16%;
+}
+
+}
+
+
+@media screen and (min-width: 871px) and (max-width: 880px)  {
+
+.team-image-group {
+    position: relative;
+    left: 17%;
+}
+
+}
+
+
+@media screen and (min-width: 881px) and (max-width: 890px)  {
+
+.team-image-group {
+    position: relative;
+    left: 18%;
+}
+
+}
+
+
+@media screen and (min-width: 891px) and (max-width: 900px)  {
+
+.team-image-group {
+    position: relative;
+    left: 19%;
+}
+
+}
+
+
+@media screen and (min-width: 901px) and (max-width: 910px)  {
+
+.team-image-group {
+    position: relative;
+    left: 25%;
+}
+
+}
+
+
+@media screen and (min-width: 911px) and (max-width: 920px)  {
+
+.column-team {
+    position: relative;
+    right: 50px;
+}
+
+.team-image-group {
+    position: relative;
+    left: 26%;
+}
+
+}
+
+
+@media screen and (min-width: 921px) and (max-width: 930px)  {
+
+.column-team {
+    position: relative;
+    right: 50px;
+}
+
+.team-image-group {
+    position: relative;
+    left: 23%;
+}
+
+}
+
+
+@media screen and (min-width: 931px) and (max-width: 940px)  {
+
+.column-team {
+    position: relative;
+    right: 50px;
+}
+
+.team-image-group {
+    position: relative;
+    left: 23%;
+}
+
+}
+
+
+@media screen and (min-width: 941px) and (max-width: 950px)  {
+
+.column-team {
+    position: relative;
+    right: 50px;
+}
+
+.team-image-group {
+    position: relative;
+    left: 23%;
+}
+
+}
+
+
+@media screen and (min-width: 951px) and (max-width: 960px)  {
+
+.column-team {
+    position: relative;
+    right: 50px;
+}
+
+.team-image-group {
+    position: relative;
+    left: 23%;
+}
+
+}
